@@ -1,0 +1,3 @@
+// Short-circuit evaluation — should not print "bad"
+false and print "bad";
+true or print "bad";

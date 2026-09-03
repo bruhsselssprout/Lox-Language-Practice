@@ -1,0 +1,4 @@
+// logic — should print false, true, true
+print !nil;
+print !false;
+print !!"anything";

@@ -1,0 +1,2 @@
+// String Test - should print string "Hello, world!"
+print "Hello, world!";

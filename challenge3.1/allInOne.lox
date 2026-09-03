@@ -1,0 +1,8 @@
+// All-In-One Test
+var result = 1 + 2 * 3;
+
+if (result == 7) {
+  print "pass";
+} else {
+  print "fail";
+}
